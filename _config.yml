@@ -23,13 +23,13 @@ process:
     reverse: True
     min_width: 600
     watermark:
-      thumbnail: False
+      thumbnail: True
       original: True
       fontsize: 40
       fontfamily: Eczar-Medium.ttf
       rotate: 0
 
-instagram: 
+instagram: sim_doodle
 
 sass:
   sass_dir: _sass
